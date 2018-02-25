@@ -18,4 +18,4 @@ This repository contains all projects worked for CSE 427S: Cloud Computing and B
 
 ## Acknowledgments
 
-* [Course Information](https://sites.wustl.edu/neumann/courses/cse427s/sp18/)
+* [WUSTL 427S Course Information](https://sites.wustl.edu/neumann/courses/cse427s/sp18/)
