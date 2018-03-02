@@ -1,6 +1,6 @@
 # Hadoop-MapReduce
 
-This repository contains all projects worked for CSE 427S: Cloud Computing and Big Data course. Each folder contains corresponding projects.
+This repository contains all projects worked for CSE 427S: Cloud Computing and Big Data course. Each folder contains corresponding MapReduce implementations.
 
 ## Map-Reduce
 
